@@ -125,7 +125,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 | Contact | GitHub ID | Email |
 |---------|-----------|-------|
-| Marco Cardoso | @MarcoABCardoso | macardoso@microsoft.com |
+| Todor Karabelov | @realToikara | dev@toikara.com |
 
 ## License
 
